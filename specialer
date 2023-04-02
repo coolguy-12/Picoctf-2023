@@ -1,0 +1,7 @@
+# specialer
+
+follow the following steps to solve specialer in General skills:
+1.connect to the server provided , for example: ssh -p 56798 ctf-player@saturn.picoctf.net
+2.Enter the password
+3.enter that code:  echo "$(</home/ctf-player/ala/kazam.txt)"
+then click enter.
