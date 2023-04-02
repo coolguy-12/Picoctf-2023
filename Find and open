@@ -1,0 +1,7 @@
+This are the following steps followed when solving find and open:
+1.Download wireshark
+2.open the Pcap file provided in wire shark
+3.move to the 48 line of the list provided in wireshark.
+4.Decrypt that from base 64 (you can use Cyber chef)
+5.Then enter that as a password of that zip.
+
